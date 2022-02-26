@@ -25,6 +25,7 @@
   * еще https://www.facebook.com/MinistryofDefence.UA/posts/264252035887256
 * Докладывать о вражеской технике и войсках @stop_russian_war_bot, @stop_russian_war
   * Как распознать технику? https://t.me/UkraineNow/2678
+* Если предлагают деньги за докладывания о метках, маячках или технике, то деньги не брать, о таких тоже докладывать
 * В своих подьездах убирать любые листовки / бумажки, которые вставляют в двери https://www.facebook.com/permalink.php?story_fbid=3236920076537910&id=100006598475073
   * еще https://www.facebook.com/groups/osnmm/posts/3129845010603698
 * При доступе на крышу - засыпать метки https://t.me/UkraineNow/2670
@@ -53,7 +54,9 @@
   * еще https://t.me/babel/9066
 * Обращать внимания на каналы в фейсбуке и инстаграмме, теперь для них указывается страна, откуда этот канал создавался https://t.me/UkraineNow/2853
 * Проверяем у риелторов, арендодателей всех жильцов https://t.me/verkhovnaradaukrainy/6254
-* По возможности выключить геолокацию на девайсах
+* По возможности выключить геолокацию на девайсах (скопление людей)
+* Выключать свет по вечерам
+* Ничего не поднимать с земли - ни игрушки, ни телефоны, ничего
 * И, конечно, сохранять спокойствие
 
 ## Еще на что жаловаться?
@@ -64,7 +67,7 @@
 * Вступать в цифровую армию https://t.me/babel/9064
 * Клавиатурные войска https://www.facebook.com/yaroslav.azhnyuk/posts/10159973106953151
 * DDoS (browser) https://ddos.featurelab.software/
-* DDoS (docker) https://github.com/ArturVasyliev/DDoS-Attack-Russian-Sites
+* DDoS (docker) https://t.me/dou_editors/1277
   * еще https://t.me/c/1117020066/93020
   * еще https://zhashkevych.notion.site/zhashkevych/DDOS-1758d62440c34f6186c2cefdeee204a0
 ```
@@ -77,6 +80,7 @@ ctrl + A, ctrl + D
 
 ## Укрытия
 * Киев https://www.google.com/maps/d/u/0/viewer?mid=1nv3QreO1QS5_AmRRNLHXu7u99sKJ6JRR&ll=50.43948441581479%2C30.502664219511257&z=10
+* Запорожье (новые) https://t.me/UkraineNow/2873
 
 ## Помощь за границей
 * Правила пересечения границы https://docs.google.com/document/d/1GHXwmo9xUrjIz7rradb64kpTBzBEs5ghOqDn8No26ks/edit?usp=sharing
@@ -87,5 +91,8 @@ ctrl + A, ctrl + D
 * Польша -> Германия (трансфер) https://t.me/+XHrjC1uX9ZVjYjZi
 * Львов -> Польша (автобус) https://t.me/c/1589772550/5199
 
-## Еще ссылки
+## Еще
 * Много полезной информации по текущей ситуации (английский язык) https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit
+* Волонтерские группы https://docs.google.com/spreadsheets/d/1BXWBPBPxexJwvl_nxraiON8s2ENJutjASdmIL4JjqDI/edit?usp=drivesdk
+* Медицинская помощь, когда 103 сложно вызвать (Киев) https://t.me/UkraineNow/2870
+* Совета психолога https://www.facebook.com/story.php?story_fbid=10222145426327541&id=1319913114

@@ -37,6 +37,7 @@
   * еще https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine
 * В убежища не пускать людей, которые пришли с проверкой https://t.me/UkraineNow/2819
 * Демонтировать дорожные знаки с указанием названий населенных пунктов https://t.me/UkraineNow/2809
+  * еще https://www.facebook.com/Ukravtodor.Gov.Ua/posts/321509113341039
 * Никого не пускать домой, не отвечать на звонки с неизвестных номеров
   * еще https://www.facebook.com/omel4enko/posts/4953280441385022
 * Не использовать WhatsApp, лучше Telegram
@@ -51,13 +52,17 @@
 * Репортить каналы дезинформации и вражеских ботов https://t.me/D7_channel/3350
   * еще https://t.me/babel/9066
 * Обращать внимания на каналы в фейсбуке и инстаграмме, теперь для них указывается страна, откуда этот канал создавался https://t.me/UkraineNow/2853
+* Проверяем у риелторов, арендодателей всех жильцов https://t.me/verkhovnaradaukrainy/6254
+* По возможности выключить геолокацию на девайсах
 * И, конечно, сохранять спокойствие
 
 ## Еще на что жаловаться?
 Список, на кого жаловаться [тут](./REPORT.md).
 
 ## Технически что делать? (под VPN)
+* Промокод на VPN https://my.clearvpn.com/promo/redeem?code=SAVEUKRAINE
 * Вступать в цифровую армию https://t.me/babel/9064
+* Клавиатурные войска https://www.facebook.com/yaroslav.azhnyuk/posts/10159973106953151
 * DDoS (browser) https://ddos.featurelab.software/
 * DDoS (docker) https://github.com/ArturVasyliev/DDoS-Attack-Russian-Sites
     * screen

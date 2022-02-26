@@ -10,6 +10,7 @@
 * Следить за воздушной тревогой (три сигнала) и идти в убежище
   * сигналом тревоги может также выступать церковный звон https://t.me/UkraineNow/2849
 * Соблюдать комендантский час https://t.me/corona_kyiv/1187
+  * дополнительно по городам и регионам https://t.me/UkraineNow/2852
 * Защищаемся от дезинформации https://t.me/UkraineNow/2673
   * и не даем информации о наших войсках противнику
 * Запасаемся https://t.me/virus_stories/511
@@ -68,7 +69,7 @@
 ## Укрытия
 * Киев https://www.google.com/maps/d/u/0/viewer?mid=1nv3QreO1QS5_AmRRNLHXu7u99sKJ6JRR&ll=50.43948441581479%2C30.502664219511257&z=10
 
-## За границей
+## Помощь за границей
 * Словакия https://t.me/UkraineNow/2820
 * Германия, Берлин https://t.me/+pY4AEUY_0jZhMzQ0
 * Польша, Краков https://www.facebook.com/sergiiyatsuk/posts/5240637782637562

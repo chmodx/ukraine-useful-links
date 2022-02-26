@@ -66,6 +66,7 @@
 * DDoS (browser) https://ddos.featurelab.software/
 * DDoS (docker) https://github.com/ArturVasyliev/DDoS-Attack-Russian-Sites
   * еще https://t.me/c/1117020066/93020
+  * еще https://zhashkevych.notion.site/zhashkevych/DDOS-1758d62440c34f6186c2cefdeee204a0
 ```
 screen
 docker run -ti --rm alpine/bombardier -c 100 -d 60m -l https://www.gosuslugi.ru
@@ -78,6 +79,10 @@ ctrl + A, ctrl + D
 * Киев https://www.google.com/maps/d/u/0/viewer?mid=1nv3QreO1QS5_AmRRNLHXu7u99sKJ6JRR&ll=50.43948441581479%2C30.502664219511257&z=10
 
 ## Помощь за границей
+* Правила пересечения границы https://docs.google.com/document/d/1GHXwmo9xUrjIz7rradb64kpTBzBEs5ghOqDn8No26ks/edit?usp=sharing
+* Разные страны, документ обновляется https://docs.google.com/spreadsheets/d/12VLP5w2xZZbmYf_H0-AABih33T1JqSgc2SvgogpRvfo/edit?usp=sharing
 * Словакия https://t.me/UkraineNow/2820
 * Германия, Берлин https://t.me/+pY4AEUY_0jZhMzQ0
 * Польша, Краков https://www.facebook.com/sergiiyatsuk/posts/5240637782637562
+* Польша -> Германия (трансфер) https://t.me/+XHrjC1uX9ZVjYjZi
+* Львов -> Польша (автобус) https://t.me/c/1589772550/5199

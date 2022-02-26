@@ -86,3 +86,6 @@ ctrl + A, ctrl + D
 * Польша, Краков https://www.facebook.com/sergiiyatsuk/posts/5240637782637562
 * Польша -> Германия (трансфер) https://t.me/+XHrjC1uX9ZVjYjZi
 * Львов -> Польша (автобус) https://t.me/c/1589772550/5199
+
+## Еще ссылки
+* Много полезной информации по текущей ситуации (английский язык) https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit

@@ -2,12 +2,14 @@
 
 ## Новости
 
-Только проверенные каналы
+Только проверенные каналы (для примера)
 * https://t.me/informnapalm
 * https://t.me/UkraineNow
 
 ## Что делать?
 * Следить за воздушной тревогой (три сигнала) и идти в убежище
+  * сигналом тревоги может также выступать церковный звон https://t.me/UkraineNow/2849
+* Соблюдать комендантский час https://t.me/corona_kyiv/1187
 * Защищаемся от дезинформации https://t.me/UkraineNow/2673
   * и не даем информации о наших войсках противнику
 * Запасаемся https://t.me/virus_stories/511
@@ -46,12 +48,14 @@
   * еще https://www.facebook.com/viktor.bezhenar.5/posts/4953756088016719
 * Сдавать кровь по возможности
 * Репортить каналы дезинформации и вражеских ботов https://t.me/D7_channel/3350
+  * еще https://t.me/babel/9066
 * И, конечно, сохранять спокойствие
 
 ## Еще на что жаловаться?
 Список, на кого жаловаться [тут](./REPORT.md).
 
 ## Технически что делать? (под VPN)
+* Вступать в цифровую армию https://t.me/babel/9064
 * DDoS (browser) https://ddos.featurelab.software/
 * DDoS (docker) https://github.com/ArturVasyliev/DDoS-Attack-Russian-Sites
     * screen

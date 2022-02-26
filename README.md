@@ -13,9 +13,9 @@
 * Запасаемся https://t.me/virus_stories/511
 * Тегаем НАТО и просим закрыть небо https://www.facebook.com/nata.khomyk/posts/7090084527729169
 * Засыпать, закрашивать, срывать метки https://www.facebook.com/1443540761/posts/10228418311829879/
-* Еще одни метки https://t.me/UkraineNow/2685
-* Еще метки https://www.facebook.com/alexandr.zinovyev/posts/5386317528045956
-* Уничтожать маячки
+  * еще https://t.me/UkraineNow/2685
+  * еще https://www.facebook.com/alexandr.zinovyev/posts/5386317528045956
+* Уничтожать мигающие маячки
 * Докладывать о вражеской технике и войсках @stop_russian_war_bot, @stop_russian_war
   * Как распознать технику? https://t.me/UkraineNow/2678
 * В своих подьездах убирать любые листовки / бумажки, которые вставляют в двери
@@ -34,6 +34,9 @@
 * Вступать в теороборону
 * Гасло "паляниця", відгук "нісенітниця"
 * Диверсанты не смогут произнести "малесеньке телятко гамцяло с полиці паляницю" и не знают, где главное отделение МоноБанка
+* Благотворительность https://www.facebook.com/blackwounded1/posts/7013754042031547
+  * еще https://www.facebook.com/viktor.bezhenar.5/posts/4953756088016719
+* Сдавать кровь по возможности
 * И, конечно, сохранять спокойствие
 
 ## Еще на что желоваться?
@@ -55,3 +58,4 @@
 ## За границей
 * Словакия https://t.me/UkraineNow/2820
 * Германия, Берлин https://t.me/+pY4AEUY_0jZhMzQ0
+* Польша, Краков https://www.facebook.com/sergiiyatsuk/posts/5240637782637562

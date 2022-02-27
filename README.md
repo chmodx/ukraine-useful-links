@@ -79,7 +79,7 @@
   * еще https://zhashkevych.notion.site/zhashkevych/DDOS-1758d62440c34f6186c2cefdeee204a0
 * DDoS (для нетехнических людей) https://github.com/nitupkcuf/runner/blob/main/README.md
 
-Дополнительно домены [тут](./DDoS.md).
+Дополнительно домены для DDoS [тут](./DDoS.md).
 Результат тут: https://t.me/virus_stories/525
 
 ## Укрытия

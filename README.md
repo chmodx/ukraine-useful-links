@@ -99,6 +99,7 @@
 * Словакия https://t.me/UkraineNow/2820
 * Германия, Берлин https://t.me/+pY4AEUY_0jZhMzQ0
 * Польша, Краков https://www.facebook.com/sergiiyatsuk/posts/5240637782637562
+* Румыния, всяческая помощь https://www.facebook.com/groups/unitipentruucraina/
 * Польша -> Германия (трансфер) https://t.me/+XHrjC1uX9ZVjYjZi
 * Львов -> Польша (автобус) https://t.me/c/1589772550/5199
 

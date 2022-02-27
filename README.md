@@ -77,12 +77,9 @@
 * DDoS (docker) https://t.me/dou_editors/1277
   * еще https://t.me/c/1117020066/93020
   * еще https://zhashkevych.notion.site/zhashkevych/DDOS-1758d62440c34f6186c2cefdeee204a0
-```
-screen
-docker run -ti --rm alpine/bombardier -c 100 -d 60m -l https://www.gosuslugi.ru
-ctrl + A, ctrl + D
-```
+* DDoS (для нетехнических людей) https://github.com/nitupkcuf/runner/blob/main/README.md
 
+Дополнительно домены [тут](./DDoS.md).
 Результат тут: https://t.me/virus_stories/525
 
 ## Укрытия
@@ -100,6 +97,7 @@ ctrl + A, ctrl + D
 
 ## Еще
 * Много полезной информации по текущей ситуации (английский язык) https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit
+  * еще набор ссылок для выезда за границу https://www.facebook.com/710842708/posts/10158672196202709/
 * Волонтерские группы https://docs.google.com/spreadsheets/d/1BXWBPBPxexJwvl_nxraiON8s2ENJutjASdmIL4JjqDI/edit?usp=drivesdk
 * Медицинская помощь, когда 103 сложно вызвать (Киев) https://t.me/UkraineNow/2870
 * Совета психолога https://www.facebook.com/story.php?story_fbid=10222145426327541&id=1319913114

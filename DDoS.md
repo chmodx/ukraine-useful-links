@@ -1,0 +1,10 @@
+* ria.ru
+* gazeta.ru
+* kp.ru
+* riafan.ru
+* pikabu.ru
+* kommersant.ru
+* mk.ru
+* yaplakal.com
+* rbc.ru
+* bezformata.com

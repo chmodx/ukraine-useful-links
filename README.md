@@ -41,7 +41,8 @@
 * Если знаете, что вражеская техника будет ехать - валить деревья, создавать баррикады, жечь шины https://t.me/UkraineNow/2778
 * Подписать петицию https://www.change.org/p/the-international-criminal-court-stop-putin-war-now-recognize-putin-s-regime-as-war-criminals
   * еще https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine
-* В убежища не пускать людей, которые пришли с проверкой https://t.me/UkraineNow/2819
+* В убежища не пускать людей, которые пришли с проверкой, докладывать о таких https://t.me/UkraineNow/2819
+* В убежища не пускать людей, которые пришли с вопросами (сколько вас там? а где находится что-то?), докладывать о таких
 * Демонтировать дорожные знаки с указанием названий населенных пунктов https://t.me/UkraineNow/2809
   * еще https://www.facebook.com/Ukravtodor.Gov.Ua/posts/321509113341039
 * Никого не пускать домой, не отвечать на звонки с неизвестных номеров

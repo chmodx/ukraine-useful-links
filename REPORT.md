@@ -203,6 +203,27 @@
 * https://t.me/MaximYusin
 * https://t.me/istorijaoruzija
 * https://t.me/Govorit_Topaz
+* @grey_zone
+* @go338
+* @omonmoscow
+* @wingsofwar
+* @chvkmedia
+* @hackberegini
+* @mig41
+* @pezdicide
+* @SergeyKolyasnikov
+* @MedvedevVesti
+* @SIL0VIKI
+* @balkanossiper
+* @pl_syrenka
+* @brussinf
+* @lady_north
+* @sex_drugs_kahlo
+* @usaperiodical
+* @russ_orientalist
+* @vladlentatarsky @neoficialniybezsonov
+* @rybar
+* @milinfolive
 * @boris_rozhin
 * @go338
 * @omonmoscow

@@ -1,3 +1,5 @@
+* https://api.sberbank.ru/prod/tokens/v2/oauth
+* https://api.sberbank.ru/prod/tokens/v2/oidc
 * ria.ru
 * gazeta.ru
 * kp.ru

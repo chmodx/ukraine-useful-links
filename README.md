@@ -89,6 +89,7 @@
 ## Помощь за границей
 * Правила пересечения границы https://docs.google.com/document/d/1GHXwmo9xUrjIz7rradb64kpTBzBEs5ghOqDn8No26ks/edit?usp=sharing
 * Разные страны, документ обновляется https://docs.google.com/spreadsheets/d/12VLP5w2xZZbmYf_H0-AABih33T1JqSgc2SvgogpRvfo/edit?usp=sharing
+* Очереди на границе в Румынию https://www.politiadefrontiera.ro/en/traficonline/
 * Словакия https://t.me/UkraineNow/2820
 * Германия, Берлин https://t.me/+pY4AEUY_0jZhMzQ0
 * Польша, Краков https://www.facebook.com/sergiiyatsuk/posts/5240637782637562

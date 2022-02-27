@@ -16,12 +16,6 @@
 * https://www.youtube.com/channel/UC8lCS8Ubv3t0-Tf4IYLioTA
 * https://www.youtube.com/c/ZimaLive
 * https://www.youtube.com/channel/UCQ4YOFsXjG9eXWZ6uLj2t2A
-* https://mail.rkn.gov.ru
-* https://cloud.rkn.gov.ru
-* https://mvd.gov.ru
-* https://pwd.wto.economy.gov.ru
-* https://stroi.gov.ru
-* https://proverki.gov.ru
 * https://t.me/+VKWSAJJVAtsyZmE6
 * https://www.instagram.com/romankostomarovkrs/
 * https://www.instagram.com/kseniia.chimera/

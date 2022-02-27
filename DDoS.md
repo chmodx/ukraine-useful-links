@@ -13,3 +13,9 @@
 * https://ach.gov.ru
 * https://www.scrf.gov.ru
 * https://mil.ru
+* https://mail.rkn.gov.ru
+* https://cloud.rkn.gov.ru
+* https://mvd.gov.ru
+* https://pwd.wto.economy.gov.ru
+* https://stroi.gov.ru
+* https://proverki.gov.ru

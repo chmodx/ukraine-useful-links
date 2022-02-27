@@ -101,3 +101,4 @@
 * Волонтерские группы https://docs.google.com/spreadsheets/d/1BXWBPBPxexJwvl_nxraiON8s2ENJutjASdmIL4JjqDI/edit?usp=drivesdk
 * Медицинская помощь, когда 103 сложно вызвать (Киев) https://t.me/UkraineNow/2870
 * Совета психолога https://www.facebook.com/story.php?story_fbid=10222145426327541&id=1319913114
+* Потери врага (обновляется) https://www.donbass-operation.info/

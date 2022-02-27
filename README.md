@@ -47,7 +47,8 @@
   * еще https://www.facebook.com/Ukravtodor.Gov.Ua/posts/321509113341039
 * Никого не пускать домой, не отвечать на звонки с неизвестных номеров
   * еще https://www.facebook.com/omel4enko/posts/4953280441385022
-* Не использовать WhatsApp, лучше Telegram
+* Не использовать WhatsApp или Viber, лучше Telegram
+* Если приходится использовать Viber, то режим peer-to-peer в настройках безопасности должен быть включен
 * Забирать с собой питомцев https://t.me/UkraineNow/2744
 * Сохранить PDF документов с Дии
 * Вступать в теороборону

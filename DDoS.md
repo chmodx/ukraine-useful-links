@@ -8,3 +8,8 @@
 * yaplakal.com
 * rbc.ru
 * bezformata.com
+* https://www.gosuslugi.ru
+* https://epp.genproc.gov.ru
+* https://ach.gov.ru
+* https://www.scrf.gov.ru
+* https://mil.ru

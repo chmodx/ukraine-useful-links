@@ -83,10 +83,10 @@
   * еще https://zhashkevych.notion.site/zhashkevych/DDOS-1758d62440c34f6186c2cefdeee204a0
 * DDoS (для нетехнических людей) https://github.com/nitupkcuf/runner/blob/main/README.md
 
-Дополнительно домены для DDoS [тут](./DDoS.md).
+Дополнительно домены для DDoS [тут](./DDoS.md). [JSON](./DDoS.json).
 Вражеские телеканалы [тут](./CHANNELS.md).
 Результат тут: https://t.me/virus_stories/525
-s
+
 ## Укрытия
 * Киев https://www.google.com/maps/d/u/0/viewer?mid=1nv3QreO1QS5_AmRRNLHXu7u99sKJ6JRR&ll=50.43948441581479%2C30.502664219511257&z=10
 * Запорожье (новые) https://t.me/UkraineNow/2873

@@ -1,3 +1,4 @@
+* mininform.gov.by
 * https://bgp.by/ru/
 * https://www.belneftekhim.by
 * http://www.bellegprom.by

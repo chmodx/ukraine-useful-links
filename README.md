@@ -37,6 +37,7 @@
   * еще https://www.facebook.com/elenagnashuk/posts/3075436069371331
 * Распознавать и докладывать о минах https://www.facebook.com/OksanaKhiliykova/posts/1658192051225062
 * Докладывать о подозрительные людях, которые что-то рисуют или расбрасывают
+* Докладывать о медиках скорой помощи в халатах https://www.facebook.com/1539438250/posts/10219752881882742/
 * Если знаете, что вражеская техника будет ехать - валить деревья, создавать баррикады, жечь шины https://t.me/UkraineNow/2778
 * Подписать петицию https://www.change.org/p/the-international-criminal-court-stop-putin-war-now-recognize-putin-s-regime-as-war-criminals
   * еще https://www.openpetition.eu/petition/online/people-around-the-world-ask-nato-to-close-the-airspace-over-ukraine
@@ -65,6 +66,8 @@
 * Выключать свет по вечерам
 * Ничего не поднимать с земли - ни игрушки, ни телефоны, ничего
 * Не переходить по ссылкам, присылаемым с неизвестных аккаунтов и номеров http://ibigdan.com/2022/02/25/u-telegram-ta-inshix-mesendzherax-rozpovsyudzhuyut-fejk-vid-imeni-sbu/
+* Если добавляют в группы переклички - выходите с них
+* Как противостоять танкам https://www.facebook.com/100000775413978/posts/4852679748101158/
 * И, конечно, сохранять спокойствие
 
 ## Еще на что жаловаться?
@@ -81,8 +84,9 @@
 * DDoS (для нетехнических людей) https://github.com/nitupkcuf/runner/blob/main/README.md
 
 Дополнительно домены для DDoS [тут](./DDoS.md).
+Вражеские телеканалы [тут](./CHANNELS.md).
 Результат тут: https://t.me/virus_stories/525
-
+s
 ## Укрытия
 * Киев https://www.google.com/maps/d/u/0/viewer?mid=1nv3QreO1QS5_AmRRNLHXu7u99sKJ6JRR&ll=50.43948441581479%2C30.502664219511257&z=10
 * Запорожье (новые) https://t.me/UkraineNow/2873

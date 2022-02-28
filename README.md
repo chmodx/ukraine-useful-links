@@ -113,6 +113,7 @@
 * Румыния, всяческая помощь https://www.facebook.com/groups/unitipentruucraina/
 * Польша -> Германия (трансфер) https://t.me/+XHrjC1uX9ZVjYjZi
 * Львов -> Польша (автобус) https://t.me/c/1589772550/5199
+* Нидерланды, Амстердам/Гаага https://t.me/+l75GrcLox7gyYzRi
 
 ## Еще
 * Много полезной информации по текущей ситуации (английский язык) https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit

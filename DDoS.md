@@ -1,3 +1,5 @@
+* https://www.moex.com
+* http://www.fsb.ru/
 * mininform.gov.by
 * https://bgp.by/ru/
 * https://www.belneftekhim.by

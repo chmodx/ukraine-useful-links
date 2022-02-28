@@ -73,6 +73,7 @@
 * Как противостоять танкам https://www.facebook.com/100000775413978/posts/4852679748101158/
 * В соцсетях не добавлять в друзья тех, кто уже должен быть в увас друзьях, это фейковые аккаунты https://www.facebook.com/100005287394784/posts/1837188126467416/
 * Сделать LOCK аккаунта в фейсбуке (чтобы ваши сообщения видели только друзья) https://www.facebook.com/100005251902771/posts/1954720614712983/
+* Игнорировать фишинговые письма врага, не открываем подозрительные письма на электронной почте https://t.me/zedigital/1168
 * И, конечно, сохранять спокойствие
 
 ## Еще на что жаловаться?
@@ -88,8 +89,13 @@
   * еще https://zhashkevych.notion.site/zhashkevych/DDOS-1758d62440c34f6186c2cefdeee204a0
 * DDoS (для нетехнических людей) https://github.com/nitupkcuf/runner/blob/main/README.md
 
-Дополнительно домены для DDoS [тут](./DDoS.md). [JSON](./DDoS.json).
+Дополнительно домены для DDoS [тут](./DDoS.md).
+
+[JSON](./DDoS.json).
+
 Вражеские телеканалы [тут](./CHANNELS.md).
+Вражеские номера телефонов [тут](./PHONES.md).
+
 Результат тут: https://t.me/virus_stories/525
 
 ## Укрытия
@@ -98,6 +104,7 @@
 
 ## Помощь за границей
 * Правила пересечения границы https://docs.google.com/document/d/1GHXwmo9xUrjIz7rradb64kpTBzBEs5ghOqDn8No26ks/edit?usp=sharing
+  * еще много по границе и помощи https://nv.ua/ukr/ukraine/events/kordon-ukrajini-z-polshcheyu-ugorshchinoyu-slovachchinoyu-moldovoyu-ta-dopomoga-bizhencyam-spisok-adres-50220609.html
 * Разные страны, документ обновляется https://docs.google.com/spreadsheets/d/12VLP5w2xZZbmYf_H0-AABih33T1JqSgc2SvgogpRvfo/edit?usp=sharing
 * Очереди на границе в Румынию https://www.politiadefrontiera.ro/en/traficonline/
 * Словакия https://t.me/UkraineNow/2820
@@ -110,6 +117,7 @@
 ## Еще
 * Много полезной информации по текущей ситуации (английский язык) https://docs.google.com/document/d/1OlZIz-72A2xI2uUOFE07L5ObQGP4JDcXZ2vdIs2P9BQ/edit
   * еще набор ссылок для выезда за границу https://www.facebook.com/710842708/posts/10158672196202709/
+  * Relocation Options for Ukrainians https://docs.google.com/document/d/1ebXPKnF_krrfkpjF4dHKhJ3YYzYVpg8w-JAG91yLxdc/preview
 * Волонтерские группы https://docs.google.com/spreadsheets/d/1BXWBPBPxexJwvl_nxraiON8s2ENJutjASdmIL4JjqDI/edit?usp=drivesdk
 * Медицинская помощь, когда 103 сложно вызвать (Киев) https://t.me/UkraineNow/2870
 * Совета психолога https://www.facebook.com/story.php?story_fbid=10222145426327541&id=1319913114
